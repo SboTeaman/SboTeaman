@@ -40,3 +40,4 @@ Open-source contributor: **[Metrics Manager](https://github.com/open-edge-platfo
 [![Email](https://img.shields.io/badge/Email-skasperek99%40gmail.com-D14836?style=flat&logo=gmail)](mailto:skasperek99@gmail.com)
 
 📍 Gdańsk, Poland · Open to remote
+
